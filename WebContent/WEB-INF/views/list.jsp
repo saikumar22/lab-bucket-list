@@ -1,5 +1,4 @@
-
-<%@page import="model.TouristPlace"%>
+<%@page import="model.TouristPlace" %>
 <%@page import="java.util.ArrayList"%>
 <%@page import="java.util.List"%>
 <%@page language="java" contentType="text/html" pageEncoding="UTF-8"%>
